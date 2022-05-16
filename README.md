@@ -1,2 +1,2 @@
 # mobile_store_web-2.0
-This is a mobile selling website
+This is a website designed to shop new online products . Product search algorithm in use the search product that is all different-2 type product display. This website designing very good format of combination color choose. It is used to product Add card and Buy this product to be payment card. This website is developed using  HTML,CSS JavaScript, PHP and connection database use MySQL.
